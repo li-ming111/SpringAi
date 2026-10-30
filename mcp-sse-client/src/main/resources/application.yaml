@@ -1,0 +1,16 @@
+spring:
+  ai:
+    dashscope:
+      api-key: ${DASHSCOPE_API_KEY}
+      chat:
+        options:
+          model: qwen3-30b-a3b
+    mcp:
+      client:
+        toolcallback:
+          enabled: true
+        enabled: true
+        name: my-mcp-client
+        version: 1.0.0
+        request-timeout: 30s
+        type: ASYNC  # or ASYNC for reactive applications

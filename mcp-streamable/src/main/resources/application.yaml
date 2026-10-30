@@ -1,0 +1,26 @@
+server:
+  port: 8888
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+spring:
+  application:
+    name: mcp
+  main:
+    web-application-type: none
+  ai:
+    dashscope:
+      api-key: ${DASHSCOPE_API_KEY}
+    mcp:
+      client:
+        toolcallback:
+          enabled: true
+#        streamable:
+#          connections:
+#            server1:
+#              url: http://env-cvpjbjem1hkjat42sk4g-ap-southeast-1.alicloudapi.com/mcp-quark
+  #mandatory-file-encoding: UTF-8
+

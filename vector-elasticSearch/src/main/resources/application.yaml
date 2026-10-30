@@ -1,0 +1,18 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: elasticsearch-example
+
+  ai:
+    dashscope:
+      api-key: ${DASHSCOPE_API_KEY}
+
+    vectorstore:
+      elasticsearch:
+        index-name: spring-ai-alibaba-index
+        similarity: cosine
+        dimensions: 1536
+
+  elasticsearch:
+    uris: http://127.0.0.1:9200

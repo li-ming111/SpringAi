@@ -1,0 +1,68 @@
+{
+  "result": {
+    "metadata": {
+      "finishReason": "STOP",
+      "contentFilters": [],
+      "empty": true
+    },
+    "output": {
+      "messageType": "ASSISTANT",
+      "metadata": {
+        "finishReason": "STOP",
+        "id": "6ee00242-5427-9a02-ad69-c3b0b5fbc662",
+        "role": "ASSISTANT",
+        "messageType": "ASSISTANT",
+        "reasoningContent": ""
+      },
+      "toolCalls": [],
+      "media": [],
+      "text": "你好！很高兴见到你。有什么我可以帮你的吗？😊"
+    }
+  },
+  "metadata": {
+    "id": "6ee00242-5427-9a02-ad69-c3b0b5fbc662",
+    "model": "",
+    "rateLimit": {
+      "tokensReset": "PT0S",
+      "requestsLimit": 0,
+      "tokensLimit": 0,
+      "requestsReset": "PT0S",
+      "tokensRemaining": 0,
+      "requestsRemaining": 0
+    },
+    "usage": {
+      "promptTokens": 13,
+      "completionTokens": 13,
+      "totalTokens": 26,
+      "nativeUsage": {
+        "output_tokens": 13,
+        "input_tokens": 13,
+        "total_tokens": 26
+      }
+    },
+    "promptMetadata": [],
+    "empty": true
+  },
+  "results": [
+    {
+      "metadata": {
+        "finishReason": "STOP",
+        "contentFilters": [],
+        "empty": true
+      },
+      "output": {
+        "messageType": "ASSISTANT",
+        "metadata": {
+          "finishReason": "STOP",
+          "id": "6ee00242-5427-9a02-ad69-c3b0b5fbc662",
+          "role": "ASSISTANT",
+          "messageType": "ASSISTANT",
+          "reasoningContent": ""
+        },
+        "toolCalls": [],
+        "media": [],
+        "text": "你好！很高兴见到你。有什么我可以帮你的吗？😊"
+      }
+    }
+  ]
+}

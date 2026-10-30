@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: simple-db
+  ai:
+    dashscope:
+      api-key: ${DASHSCOPE_API_KEY}

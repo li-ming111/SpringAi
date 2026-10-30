@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.zmx</groupId>
+        <artifactId>springAI-demo</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <groupId>com.hxx</groupId>
+    <artifactId>tool-calling</artifactId>
+    <name>Archetype - tool-calling</name>
+    <url>http://maven.apache.org</url>
+
+    <dependencies>
+       <!-- 阿里大模型工具调用依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud.ai</groupId>
+            <artifactId>spring-ai-alibaba-starter-dashscope</artifactId>
+        </dependency>
+
+        <!--百度翻译工具调用依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud.ai</groupId>
+            <artifactId>spring-ai-alibaba-starter-tool-calling-baidutranslate</artifactId>
+        </dependency>
+
+        <!-- 天气查询工具调用依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud.ai</groupId>
+            <artifactId>spring-ai-alibaba-starter-tool-calling-weather</artifactId>
+        </dependency>
+
+        <!-- 百度地图工具调用依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud.ai</groupId>
+            <artifactId>spring-ai-alibaba-starter-tool-calling-baidumap</artifactId>
+        </dependency>
+
+        <!-- 时间工具调用依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud.ai</groupId>
+            <artifactId>spring-ai-alibaba-starter-tool-calling-time</artifactId>
+        </dependency>
+
+        <!-- GitHub工具调用依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud.ai</groupId>
+            <artifactId>spring-ai-alibaba-starter-tool-calling-githubtoolkit</artifactId>
+        </dependency>
+    </dependencies>
+</project>

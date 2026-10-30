@@ -1,0 +1,142 @@
+[
+  {
+    "name": "疾风300山地车",
+    "shortDescription": "专业级越野性能",
+    "description": "27.5英寸液压碟刹避震前叉，铝合金车架搭配Shimano 24速变速系统，适合复杂山地地形。",
+    "price": 3680.00,
+    "tags": ["bicycle", "山地自行车", "越野"]
+  },
+  {
+    "name": "城市轻骑者",
+    "shortDescription": "通勤代步优选",
+    "description": "28寸防刺轮胎搭配可调节车把，内置LED车灯和后货架，PU防水座垫提升雨天舒适性。",
+    "price": 899.00,
+    "tags": ["bicycle", "城市自行车", "通勤"]
+  },
+  {
+    "name": "钛速公路竞速版",
+    "shortDescription": "竞级碳纤维公路车",
+    "description": "全碳纤维车架仅重8.2kg，Shimano Ultegra 22速电子变速系统，空气动力学设计破风车把。",
+    "price": 15680.00,
+    "tags": ["bicycle", "公路自行车", "竞速"]
+  },
+  {
+    "name": "小精灵折叠车",
+    "shortDescription": "3秒快速折叠",
+    "description": "16英寸镁合金车身支持单手提起，折叠后尺寸60x40x25cm，地铁公交无缝接驳。",
+    "price": 2199.00,
+    "tags": ["bicycle", "折叠自行车", "便携"]
+  },
+  {
+    "name": "雷霆全地形车",
+    "shortDescription": "山地/公路双模式",
+    "description": "可锁死避震前叉，27.5x2.1英寸多功能轮胎，一键切换越野/公路模式。",
+    "price": 5320.00,
+    "tags": ["bicycle", "山地自行车", "全地形"]
+  },
+  {
+    "name": "复古邮差单车",
+    "shortDescription": "英伦复古设计",
+    "description": "真皮座垫与牛皮挡泥板，经典转铃与后置公文架，钢管车架手工烤漆工艺。",
+    "price": 2880.00,
+    "tags": ["bicycle", "城市自行车", "复古"]
+  },
+  {
+    "name": "星际儿童自行车",
+    "shortDescription": "安全辅助轮设计",
+    "description": "14英寸充气轮胎配双侧可拆卸辅助轮，全包链罩与卡通铃铛，符合欧盟儿童安全标准。",
+    "price": 658.00,
+    "tags": ["bicycle", "儿童自行车"]
+  },
+  {
+    "name": "电助力远征者",
+    "shortDescription": "250W智能助力",
+    "description": "三星锂电池支持80km续航，5档助力调节，IPX6防水电机与手机APP互联系统。",
+    "price": 6899.00,
+    "tags": ["bicycle", "电动自行车", "长途"]
+  },
+  {
+    "name": "砾石探险家",
+    "shortDescription": "混合路面专用",
+    "description": "40c宽胎兼顾公路与碎石路况，碟刹系统与后货架安装孔，适合Bikepacking旅行。",
+    "price": 4200.00,
+    "tags": ["bicycle", "砾石公路车", "旅行"]
+  },
+  {
+    "name": "BMX极限特技车",
+    "shortDescription": "U型池专用",
+    "description": "20英寸高强度铬钼钢车架，360度旋转车把，踩刹车系统支持倒骑特技。",
+    "price": 3280.00,
+    "tags": ["bicycle", "特技自行车", "极限运动"]
+  },
+  {
+    "name": "雪地宽胎车",
+    "shortDescription": "4.0英寸超宽胎",
+    "description": "铝合金防冻车架搭配低温专用润滑系统，-30℃正常运行，适合雪地与沙地骑行。",
+    "price": 4999.00,
+    "tags": ["bicycle", "雪地自行车", "特殊地形"]
+  },
+  {
+    "name": "情侣双人自行车",
+    "shortDescription": "前后双座设计",
+    "description": "同步传动系统双人协同发力，可拆卸顶棚与储物篮，配备独立双刹车系统。",
+    "price": 3790.00,
+    "tags": ["bicycle", "双人自行车", "休闲"]
+  },
+  {
+    "name": "碳纤维TT计时车",
+    "shortDescription": "铁人三项专用",
+    "description": "UCI认证气动造型，集成储物舱设计，休息把支持多角度调节，专为计时赛打造。",
+    "price": 24500.00,
+    "tags": ["bicycle", "公路自行车", "竞技"]
+  },
+  {
+    "name": "智能健身单车",
+    "shortDescription": "Zwift联动版",
+    "description": "电磁阻力系统支持2000级调节，ANT+协议连接训练平台，实景骑行模拟系统。",
+    "price": 8999.00,
+    "tags": ["bicycle", "健身自行车", "智能"]
+  },
+  {
+    "name": "迷你平衡车",
+    "shortDescription": "2-5岁启蒙",
+    "description": "无脚踏设计培养平衡感，EVA发泡轮胎免充气，车把限位保护防侧翻。",
+    "price": 388.00,
+    "tags": ["bicycle", "儿童自行车", "平衡车"]
+  },
+  {
+    "name": "快递货运三轮",
+    "shortDescription": "1.2m³货箱",
+    "description": "加粗钢管车架承重300kg，倒车辅助系统，可选装太阳能充电板。",
+    "price": 7250.00,
+    "tags": ["bicycle", "货运自行车", "商用"]
+  },
+  {
+    "name": "死飞固定齿轮",
+    "shortDescription": "街头文化代表",
+    "description": "700c高框轮组，翻胎器设计支持倒刹，可更换彩色把带与轮胎。",
+    "price": 1980.00,
+    "tags": ["bicycle", "固定齿轮自行车", "潮流"]
+  },
+  {
+    "name": "太阳能通勤车",
+    "shortDescription": "车筐光伏充电",
+    "description": "集成30W太阳能板，USB输出口支持手机充电，夜间自动感应LED照明系统。",
+    "price": 3150.00,
+    "tags": ["bicycle", "城市自行车", "环保"]
+  },
+  {
+    "name": "全避震速降车",
+    "shortDescription": "200mm行程避震",
+    "description": "双肩前叉与后胆联动系统，DH专用齿比，装甲级防护链盒与刹车散热片。",
+    "price": 18600.00,
+    "tags": ["bicycle", "山地自行车", "速降"]
+  },
+  {
+    "name": "模块化旅行车",
+    "shortDescription": "可扩展货架系统",
+    "description": "标准化接口支持快速安装帐篷/水箱等装备，Schwalbe防刺旅行胎，全球保修服务。",
+    "price": 8200.00,
+    "tags": ["bicycle", "旅行自行车", "探险"]
+  }
+]

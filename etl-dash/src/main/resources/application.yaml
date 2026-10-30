@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: etl-dash
+  ai:
+    dashscope:
+      api-key: ${DASHSCOPE_API_KEY}
+      chat:
+        options:
+          model: qwen3-30b-a3b
+      embedding:
+        options:
+          model: text-embedding-v2

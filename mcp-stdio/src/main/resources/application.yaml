@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: mcp-stdio
+  main:
+    web-application-type: none
+  ai:
+    dashscope:
+      api-key: ${DASHSCOPE_API_KEY}
+      chat:
+        options:
+          model: qwen3-30b-a3b
+    mcp:
+      client:
+        stdio:
+          servers-configuration: classpath:/mcp-servers-config.json
+  mandatory-file-encoding: UTF-8
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
